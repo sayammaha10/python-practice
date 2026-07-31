@@ -10,6 +10,10 @@ A collection of Python projects I built while learning and practicing Python. Th
 
 A simple command-line quiz game built with Python that asks users a series of questions, checks their answers, and displays the final score as a percentage.
 
+### 2. Number Guessing Game
+
+A simple command-line number guessing game built with Python that generates a random number within a user-defined range and provides feedback until the correct number is guessed.
+
 ---
 
 More projects will be added over time.

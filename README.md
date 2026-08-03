@@ -14,6 +14,10 @@ A simple command-line quiz game built with Python that asks users a series of qu
 
 A simple command-line number guessing game built with Python that generates a random number within a user-defined range and provides feedback until the correct number is guessed.
 
+### 3. Rock Paper Scissors
+
+A simple command-line Rock Paper Scissors game built with Python that lets users play against the computer while keeping track of the total wins for both players.
+
 ---
 
 More projects will be added over time.

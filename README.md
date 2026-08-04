@@ -18,6 +18,10 @@ A command-line number guessing game built with Python that allows users to defin
 
 A command-line Rock Paper Scissors game built with Python that lets users play multiple rounds against the computer, randomly generates the computer's choice each round, determines the outcome based on the standard game rules, validates user input, maintains separate win counters for both the player and the computer, and displays the final results when the user chooses to quit.
 
+### 4. Password Manager
+
+A command-line password manager built with Python that allows users to securely store and retrieve passwords using encryption. The application automatically generates an encryption key to protect saved passwords, stores account credentials locally, and provides options to add new passwords or view previously saved credentials in a decrypted format.
+
 ---
 
 More projects will be added over time.

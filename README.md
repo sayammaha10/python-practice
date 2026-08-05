@@ -22,6 +22,10 @@ A command-line Rock Paper Scissors game built with Python that lets users play m
 
 A command-line password manager built with Python that allows users to securely store and retrieve passwords using encryption. The application automatically generates an encryption key to protect saved passwords, stores account credentials locally, and provides options to add new passwords or view previously saved credentials in a decrypted format.
 
+### 5. Password Generator
+
+A command-line password generator built with Python that creates secure random passwords based on user-defined preferences. The application allows users to choose the minimum password length, include numbers and special characters, validates user input, ensures generated passwords meet the selected requirements, and provides the option to generate multiple passwords.
+
 ---
 
 More projects will be added over time.

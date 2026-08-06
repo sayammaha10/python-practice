@@ -26,6 +26,10 @@ A command-line password manager built with Python that allows users to securely 
 
 A command-line password generator built with Python that creates secure random passwords based on user-defined preferences. The application allows users to choose the minimum password length, include numbers and special characters, validates user input, ensures generated passwords meet the selected requirements, and provides the option to generate multiple passwords.
 
+### 6. Countdown Timer
+
+A command-line countdown timer built with Python that allows users to set a custom duration by entering minutes and seconds. The application validates user input, displays the remaining time in real time with a live countdown, and plays an alarm sound when the timer reaches zero.
+
 ---
 
 More projects will be added over time.

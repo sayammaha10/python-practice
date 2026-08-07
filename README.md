@@ -30,6 +30,10 @@ A command-line password generator built with Python that creates secure random p
 
 A command-line countdown timer built with Python that allows users to set a custom duration by entering minutes and seconds. The application validates user input, displays the remaining time in real time with a live countdown, and plays an alarm sound when the timer reaches zero.
 
+### 7. The Game of Pig
+
+A command-line dice game built with Python that allows 2–4 players to compete in the game of Pig. Players take turns rolling a die to accumulate points, but rolling a 1 ends the current turn and forfeits the points earned during that turn. The game continues until a player reaches the target score, after which the final scores are compared to determine the winner or identify a tie.
+
 ---
 
 More projects will be added over time.

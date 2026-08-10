@@ -34,6 +34,10 @@ A command-line countdown timer built with Python that allows users to set a cust
 
 A command-line dice game built with Python that allows 2–4 players to compete in the game of Pig. Players take turns rolling a die to accumulate points, but rolling a 1 ends the current turn and forfeits the points earned during that turn. The game continues until a player reaches the target score, after which the final scores are compared to determine the winner or identify a tie.
 
+### 8. Mad Libs Generator
+
+A command-line Mad Libs generator built with Python that reads a story template from a text file, identifies placeholders enclosed in angle brackets, prompts the user to provide words for each placeholder, and replaces the placeholders with the user's responses to generate a completed story.
+
 ---
 
 More projects will be added over time.

@@ -38,6 +38,10 @@ A command-line dice game built with Python that allows 2–4 players to compete 
 
 A command-line Mad Libs generator built with Python that reads a story template from a text file, identifies placeholders enclosed in angle brackets, prompts the user to provide words for each placeholder, and replaces the placeholders with the user's responses to generate a completed story.
 
+### 9. Timed Math Challenge
+
+A command-line timed math challenge built with Python that generates a series of random arithmetic problems using addition, subtraction, multiplication, and division. The challenge requires users to solve 10 problems as quickly as possible, retries each problem until the correct answer is provided, and records the total time taken and number of incorrect attempts when completed.
+
 ---
 
 More projects will be added over time.

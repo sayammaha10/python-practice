@@ -42,6 +42,10 @@ A command-line Mad Libs generator built with Python that reads a story template 
 
 A command-line timed math challenge built with Python that generates a series of random arithmetic problems using addition, subtraction, multiplication, and division. The challenge requires users to solve 10 problems as quickly as possible, retries each problem until the correct answer is provided, and records the total time taken and number of incorrect attempts when completed.
 
+### 10. Slot Machine
+
+A command-line slot machine game built with Python that allows users to deposit a starting balance, choose the number of betting lines, and place bets before each spin. The game randomly generates a 3×3 slot machine layout using different symbols with varying values, checks the selected lines for matching symbols, calculates winnings based on the matching symbols and bet amount, updates the player's balance after each round, and displays the final balance when the player quits.
+
 ---
 
 More projects will be added over time.

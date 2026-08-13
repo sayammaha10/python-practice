@@ -46,6 +46,10 @@ A command-line timed math challenge built with Python that generates a series of
 
 A command-line slot machine game built with Python that allows users to deposit a starting balance, choose the number of betting lines, and place bets before each spin. The game randomly generates a 3×3 slot machine layout using different symbols with varying values, checks the selected lines for matching symbols, calculates winnings based on the matching symbols and bet amount, updates the player's balance after each round, and displays the final balance when the player quits.
 
+### 11. Turtle Race
+
+A graphical turtle race built with Python that allows users to choose the number of turtles competing in the race. Each turtle is assigned a different color and moves forward by a random distance on each turn, creating an unpredictable race. The first turtle to reach the finish line is declared the winner, with the race displayed in a graphical window using Python's turtle module.
+
 ---
 
 More projects will be added over time.

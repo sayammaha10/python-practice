@@ -50,6 +50,10 @@ A command-line slot machine game built with Python that allows users to deposit 
 
 A graphical turtle race built with Python that allows users to choose the number of turtles competing in the race. Each turtle is assigned a different color and moves forward by a random distance on each turn, creating an unpredictable race. The first turtle to reach the finish line is declared the winner, with the race displayed in a graphical window using Python's turtle module.
 
+### 12. Typing Test
+
+A command-line typing test built with Python that challenges users to accurately type randomly selected text while tracking their typing speed in words per minute (WPM). The application provides real-time visual feedback by highlighting correctly and incorrectly typed characters, supports backspace for correcting mistakes, and allows users to repeat the test or exit when finished.
+
 ---
 
 More projects will be added over time.

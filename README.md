@@ -54,6 +54,10 @@ A graphical turtle race built with Python that allows users to choose the number
 
 A command-line typing test built with Python that challenges users to accurately type randomly selected text while tracking their typing speed in words per minute (WPM). The application provides real-time visual feedback by highlighting correctly and incorrectly typed characters, supports backspace for correcting mistakes, and allows users to repeat the test or exit when finished.
 
+### 13. Shortest Path Finder
+
+A command-line shortest path finder built with Python that uses the breadth-first search (BFS) algorithm to find a path from a starting point to a destination. The application represents the maze as a grid, explores available paths while avoiding walls and previously visited cells, and visually displays the search process and discovered path in the terminal.
+
 ---
 
 More projects will be added over time.

@@ -58,6 +58,10 @@ A command-line typing test built with Python that challenges users to accurately
 
 A command-line shortest path finder built with Python that uses the breadth-first search (BFS) algorithm to find a path from a starting point to a destination. The application represents the maze as a grid, explores available paths while avoiding walls and previously visited cells, and visually displays the search process and discovered path in the terminal.
 
+### 14. NBA Stats Fetcher
+
+A command-line NBA data fetcher built with Python that retrieves and displays basketball data from multiple APIs. The application fetches NBA game scores and statuses, lists NBA teams with their abbreviations, and displays additional team information such as stadiums, locations, and founding years. It also uses environment variables to securely manage API credentials and includes error handling for failed API requests.
+
 ---
 
 More projects will be added over time.

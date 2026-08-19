@@ -62,6 +62,10 @@ A command-line shortest path finder built with Python that uses the breadth-firs
 
 A command-line NBA data fetcher built with Python that retrieves and displays basketball data from multiple APIs. The application fetches NBA game scores and statuses, lists NBA teams with their abbreviations, and displays additional team information such as stadiums, locations, and founding years. It also uses environment variables to securely manage API credentials and includes error handling for failed API requests.
 
+### 15. Currency Converter
+
+A command-line currency converter built with Python that retrieves current exchange rates and available currencies from an external API. The application allows users to list supported currencies, look up exchange rates between two currencies, and convert a specified amount from one currency to another while validating currency codes and numeric input.
+
 ---
 
 More projects will be added over time.

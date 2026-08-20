@@ -66,6 +66,10 @@ A command-line NBA data fetcher built with Python that retrieves and displays ba
 
 A command-line currency converter built with Python that retrieves current exchange rates and available currencies from an external API. The application allows users to list supported currencies, look up exchange rates between two currencies, and convert a specified amount from one currency to another while validating currency codes and numeric input.
 
+### 16. YouTube Video Downloader
+
+A command-line YouTube video downloader built with Python that allows users to download a video by providing its YouTube URL. The application uses a file selection dialog to let users choose where to save the downloaded video, preserves the video's title as the filename, and provides feedback when the download is completed or fails.
+
 ---
 
 More projects will be added over time.

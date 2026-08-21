@@ -70,6 +70,10 @@ A command-line currency converter built with Python that retrieves current excha
 
 A command-line YouTube video downloader built with Python that allows users to download a video by providing its YouTube URL. The application uses a file selection dialog to let users choose where to save the downloaded video, preserves the video's title as the filename, and provides feedback when the download is completed or fails.
 
+### 17. Automatic Folder Backup
+
+A Python utility that automatically creates a daily backup of a specified folder. The application creates a separate backup directory for each date, prevents existing backups from being overwritten, runs the backup automatically at a configured time, and handles common errors such as missing folders, permission issues, and other file system errors.
+
 ---
 
 More projects will be added over time.

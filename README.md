@@ -74,6 +74,10 @@ A command-line YouTube video downloader built with Python that allows users to d
 
 A Python utility that automatically creates a daily backup of a specified folder. The application creates a separate backup directory for each date, prevents existing backups from being overwritten, runs the backup automatically at a configured time, and handles common errors such as missing folders, permission issues, and other file system errors.
 
+### 18. Mastermind Game
+
+A command-line Mastermind game built with Python that challenges users to guess a randomly generated four-color code within a limited number of attempts. The game validates each guess, provides feedback on the number of colors in the correct positions and the number of correct colors in incorrect positions, and reveals the code if the player runs out of attempts.
+
 ---
 
 More projects will be added over time.

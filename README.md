@@ -78,6 +78,10 @@ A Python utility that automatically creates a daily backup of a specified folder
 
 A command-line Mastermind game built with Python that challenges users to guess a randomly generated four-color code within a limited number of attempts. The game validates each guess, provides feedback on the number of colors in the correct positions and the number of correct colors in incorrect positions, and reveals the code if the player runs out of attempts.
 
+### 19. Aim Trainer
+
+A graphical aim trainer built with Python and Pygame that challenges users to click randomly appearing targets as quickly and accurately as possible. Targets continuously grow and shrink, requiring players to react before they disappear, while the game tracks elapsed time, target hits, clicking speed, accuracy, and remaining lives. The game ends when all lives are lost and displays the player's final performance statistics.
+
 ---
 
 More projects will be added over time.

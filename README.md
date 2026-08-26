@@ -82,6 +82,10 @@ A command-line Mastermind game built with Python that challenges users to guess 
 
 A graphical aim trainer built with Python and Pygame that challenges users to click randomly appearing targets as quickly and accurately as possible. Targets continuously grow and shrink, requiring players to react before they disappear, while the game tracks elapsed time, target hits, clicking speed, accuracy, and remaining lives. The game ends when all lives are lost and displays the player's final performance statistics.
 
+### 20. Game Build Automation
+
+A command-line game build automation utility built with Python that automates the process of finding Python game projects, copying them to a target directory, and compiling them into standalone executable files using PyInstaller. The application detects game folders, identifies their Python entry files, builds each game automatically, and generates a metadata file containing the number of successfully built games and their executable filenames.
+
 ---
 
 More projects will be added over time.
